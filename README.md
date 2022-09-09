@@ -14,7 +14,7 @@ add some routes and controller logic for displaying data about our students.
 To get set up, run:
 
 ```console
-$ bundle install
+$ bundle install 
 $ rails db:migrate db:seed
 ```
 
